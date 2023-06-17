@@ -1,6 +1,6 @@
 Usage
 =====
 
-.. click:: templatepackage.__main__:main
-   :prog: python-templatepackage
+.. click:: rayblocks.__main__:main
+   :prog: python-rayblocks
    :nested: full

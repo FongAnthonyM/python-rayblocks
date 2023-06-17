@@ -6,8 +6,8 @@ Reference
     :backlinks: none
 
 
-templatepackage.__main__
+rayblocks.__main__
 --------------------
 
-.. automodule:: templatepackage.__main__
+.. automodule:: rayblocks.__main__
    :members:

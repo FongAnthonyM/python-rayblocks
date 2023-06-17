@@ -1,19 +1,19 @@
-""" header.py
+"""header.py
 Information about this package.
 """
 # Header #
-__package_name__ = "templatepackage"
+__package_name__ = "rayblocks"
 
 __author__ = "Anthony Fong"
 __credits__ = ["Anthony Fong"]
 __maintainer__ = "Anthony Fong"
 __email__ = ""
 
-__copyright__ = "Copyright 2022, Anthony Fong"
+__copyright__ = "Copyright 2023, Anthony Fong"
 __license__ = "MIT"
 
-__version__ = "0.0.0"
-__status__ = "Production/Stable"
+__version__ = "0.1.0"
+__status__ = "Planning"
 
 __all__ = [
     "__package_name__",
